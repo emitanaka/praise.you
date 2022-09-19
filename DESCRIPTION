@@ -19,5 +19,6 @@ Imports:
 Depends: 
     R (>= 2.10)
 LazyData: true
-URL: https://github.com/emitanaka/praise.you
+URL: https://github.com/emitanaka/praise.you,
+    http://emitanaka.org/praise.you/
 BugReports: https://github.com/emitanaka/praise.you/issues
